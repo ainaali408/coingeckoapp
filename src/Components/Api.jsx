@@ -1,0 +1,1 @@
+https://api.edamam.com/api/recipes/v2?type=public&q=chicken&app_id=ac22297a&app_key=d87b3337b685b6fc29f846ec984de0d8
